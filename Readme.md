@@ -1,3 +1,3 @@
 #Custom hooks
 
-repositorio de custom hooks
+repositorio de customs hooks
